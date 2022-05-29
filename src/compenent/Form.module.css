@@ -1,0 +1,40 @@
+.formDiv{
+    width:40%;
+   
+
+}
+.iconD{
+    display: flex;
+    align-items: center;
+    color: red;
+    border-bottom: 1px solid red;
+  }
+ 
+  .name{
+    margin-top: 30px;
+  }
+  .name1{
+      margin-top: 30px;
+      display: flex;
+      justify-content: space-between;
+      width: 100%;
+  }
+  .secondiconD{
+      display: flex;
+      align-items: center;
+      color: red;
+      width: 120px;
+  }
+  .header{
+      font-size: 22px;
+  }
+  .payDiv{
+      width: 300px;
+      
+      margin: auto;
+      margin-top: 20px;
+      
+  }
+  span{
+      color:red
+  }

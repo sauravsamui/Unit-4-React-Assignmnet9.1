@@ -1,0 +1,57 @@
+.cardDiv{
+    width: 30%;
+   
+  
+}
+.img{
+    width: 40px;
+    height:40px;
+}
+.head{
+    width: 80px;
+    height:60px;
+    float: right;
+}
+.card{
+   
+    padding: 15px 25px;
+    border-radius: 15px;
+    background-color: rgb(243, 73, 101);
+    width: 350px;
+   margin-top: -280px;
+}
+.imgDiv{
+    
+    margin-top: 60px;
+}
+.numberDiv{
+ 
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.detailsDiv{
+    display: flex;
+   
+    justify-content: space-between;
+    width: 240px;
+    margin-top: 20px;
+    color: white;
+}
+p{
+    font-size: 10px;
+    color: white;
+}
+.shadowDiv{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+    width: 350px;
+  
+    margin-left: 40px;
+    height: 230px;
+    overflow: auto;
+   margin-top: 100px;
+   background-color: whitesmoke;
+   border-radius: 15px;
+}
